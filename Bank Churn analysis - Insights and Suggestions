@@ -1,0 +1,51 @@
+Bank Customer Churn Analysis: 
+
+Insights and Suggestions:																		
+																		
+Insight 1:																		
+The total churn rate is 20%, with 2,037 customers out of 10,000 leaving the bank.																		
+Suggestion:																		
+Prioritize churn reduction strategies as this is a significant portion. Focus on customer retention programs and understanding the reasons behind churn through surveys and feedback collection.																		
+																		
+Insight 2:																		
+France has the highest churn rate (40%), followed by Germany (40%) and Spain (20%).																		
+Suggestions:																		
+Conduct a detailed analysis of customer behavior in France and Germany to identify specific pain points.																		
+Develop region-specific campaigns to address these issues and improve customer satisfaction.																		
+																		
+Insight 3:																		
+Inactive members are significantly more likely to churn (64%) compared to active members (36%).																		
+Suggestions:																		
+Introduce engagement initiatives like targeted email campaigns, personalized offers, and exclusive benefits for inactive members.																		
+																		
+Insight 4:																		
+Customers with medium credit scores (550–749) have the highest churn rate (67%), while low (18%) and high (16%) credit scores show lower churn.																		
+Suggestions:																		
+Offer financial advisory services or better loan terms to customers with medium credit scores.																		
+Monitor their credit improvement journey to build loyalty and trust.																		
+																		
+Insight 5:																		
+Customers using only one product are highly likely to churn (65.17%), while churn decreases as the number of products increases.																		
+Suggestions:																		
+Promote cross-selling and upselling strategies by offering discounts or bundles for multiple products.																		
+Train customer service teams to identify opportunities to introduce additional products during interactions.																		
+																		
+Insight 6:																		
+Males have a slightly higher churn rate (44%) compared to females (36%).																		
+Suggestions:																		
+Analyze gender-specific preferences and tailor offerings to address male customers’ requirements better.																		
+Leverage personalized marketing campaigns to boost engagement among male customers.																		
+																		
+Insight 7:																		
+Customers without a credit card churn at a higher rate (65%) compared to those who own one (35%).																		
+Suggestions:																		
+Run awareness campaigns to educate customers about the benefits of credit card ownership.																		
+Provide attractive credit card offers to non-owners, such as lower fees or cashback rewards.																		
+																		
+Insight 8:																		
+Customers with 3–5 years of tenure show the highest churn rate (31%), while churn decreases slightly for longer-tenure customers.																		
+Suggestions:																		
+Design loyalty programs that target mid-tenure customers, such as anniversary rewards or tenure-based benefits.																		
+Regularly check in with these customers to ensure they feel valued and supported.																		
+																		
+																		
